@@ -1,5 +1,5 @@
 # pull the tomcat docker image from docker hub
-FROM tomcat:latest
+FROM tomcat:latst_image
 
 # person who is maintinag the docker file
 MAINTAINER "vnom1985@gmail.com"
